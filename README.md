@@ -1,7 +1,7 @@
 ## Hello there, I'm Munzir 👋
 ### I hope i can help what you're looking for on my github 😁
 
-I'm college student and Back-end Web Developer!
+I'm college student and Back-end Web Developer !
 
 We can be closer by following my social media accounts below : 
 
