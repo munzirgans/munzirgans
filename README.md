@@ -1,5 +1,5 @@
-## Hello there, I'm Munzir 👋
-### I hope i can help what you're looking for on my github 😁
+## Hello there, I'm Munzir 👋 👋
+### I hope i can help what you're looking for 😁
 
 I'm college student and Back-end Web Developer !
 
